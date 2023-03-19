@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - main block
+ * main - A program that prints a line with putss function
  * return: 0
  */
 int main(void)
